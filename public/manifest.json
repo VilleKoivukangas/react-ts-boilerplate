@@ -1,0 +1,10 @@
+{
+  "short_name": "Service Voucher UI",
+  "name": "Service Voucher UI",
+  "icons": [
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
