@@ -1,1 +1,1 @@
-# Service voucher UI
+# React typescript boilerplate
